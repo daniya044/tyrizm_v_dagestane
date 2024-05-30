@@ -1,0 +1,50 @@
+body {height: 100vh;
+    background-image: url(images/fonv.png);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+p{
+    background-color:rgba(232, 239, 240, 0.322);
+    color:rgb(0, 0, 0);
+    padding:20px;
+    margin-left:1%; 
+    margin-top:-10px;font-size:1.5em;
+     width: fit-content; }
+     h1 {background-color:rgba(232, 239, 240, 0.747);
+        color:rgba(68, 82, 85, 0.527);
+        padding:-10px;text-align:center;
+        font-size:3em;}
+header {
+    background-color: #c5ece97c;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;}
+main {
+    padding: 20px;}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;}
+    h2{background-color:rgba(140, 193, 229, 0.37);color:rgb(92, 98, 102);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+    h3{background-color:rgba(140, 193, 229, 0.37);color:rgb(92, 98, 102);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+    h4{background-color:rgba(140, 193, 229, 0.37);color:rgb(92, 98, 102);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+    h5{background-color:rgba(140, 193, 229, 0.37);color:rgb(92, 98, 102);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+    h6{background-color:rgba(140, 193, 229, 0.37);color:rgb(92, 98, 102);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+    ul {
+        list-style-type: none;
+        background-color:rgba(140, 193, 229, 0.103);
+        color:rgb(0, 0, 0);
+        padding:-19px;
+        margin-left:1%; 
+        margin-top:-10px;
+        font-size:1.3em;
+         width: fit-content;
+    }
+     @keyframes fall{
+    from{transform:translateX(0) rotate(0) ;
+    opacity: 1;}
+  to{transform: translateX(180vh) rotate(1000deg);
+  opacity:0.5}
+  }

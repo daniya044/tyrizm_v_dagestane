@@ -1,0 +1,53 @@
+body {height: 100vh;
+    background-color: #e4c1adc2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+p{
+    background-color:rgba(238, 196, 156, 0.301);
+    color:rgb(0, 0, 0);
+    padding:20px;
+    margin-left:5%; 
+    margin-top:-10px;font-size:1.5em;
+     width: fit-content; }
+h1 {background-color:rgba(219, 178, 154, 0.668);
+    color:rgba(82, 64, 50, 0.527);
+    padding:-10px;text-align:center;
+    font-size:3em;}
+header {
+    background-color: rgba(236, 188, 161, 0.336);;
+    padding: 20px;
+    text-align: center;
+}
+
+.about, .attractions {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    background-color:rgba(238, 196, 156, 0.301);
+    color:rgb(0, 0, 0);
+    padding:-19px;
+    margin-left:1%; 
+    margin-top:-10px;
+    font-size:1.3em;
+     width: fit-content;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+h2{background-color:rgba(226, 182, 156, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+h3{background-color:rgba(226, 182, 156, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+h4{background-color:rgba(226, 182, 156, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+h5{background-color:rgba(226, 182, 156, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+h6{background-color:rgba(226, 182, 156, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+
+ul{
+    margin-top:-3%;
+}

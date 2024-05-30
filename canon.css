@@ -1,0 +1,49 @@
+body {height: 100vh;
+    background-image: url(images//fonka.jpg);
+    font-family: Arial, sans-serif;
+    background-size: cover;}
+    h1 {background-color:rgba(232, 239, 240, 0.747);
+        color:rgba(68, 82, 85, 0.527);
+        padding:-10px;text-align:center;
+        font-size:3em;}
+header {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;}
+.about, .attractions {
+    margin: 20px;}
+ul {
+    list-style-type: none;}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;}
+    #smotr{
+        padding: 50px;}
+    #smotr img{
+        width: 50%;
+        height: 300px;
+        object-fit: cover;}   
+    h2{background-color:rgba(140, 194, 229, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+    #gal{
+        padding: 50px;}
+    #gal h2{
+        text-align: center;
+    }
+    #gal div{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    #gal img{
+        width: 50%;
+        height: 300px;
+        object-fit: cover;}
+h3{background-color:rgba(140, 194, 229, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+h4{background-color:rgba(140, 194, 229, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+h5{background-color:rgba(140, 194, 229, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+h6{background-color:rgba(140, 194, 229, 0.668);color:rgb(255, 255, 255);padding:10px;text-align:center;margin-top:5px;font-size:2em;}
+ul{
+    margin-top:-5%;
+}
